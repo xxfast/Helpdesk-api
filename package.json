@@ -1,0 +1,22 @@
+{
+  "name": "helpdesk-api",
+  "version": "1.0.0",
+  "description": "Node RESTful API for the Doubtfire back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxfast/Helpdesk-api.git"
+  },
+  "keywords": [
+    "helpdesk-qms"
+  ],
+  "author": "Isuru Kusumal Rajapakse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxfast/Helpdesk-api/issues"
+  },
+  "homepage": "https://github.com/xxfast/Helpdesk-api#readme"
+}
