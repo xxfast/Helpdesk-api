@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/xxfast/Helpdesk-api/issues"
   },
-  "homepage": "https://github.com/xxfast/Helpdesk-api#readme"
+  "homepage": "https://github.com/xxfast/Helpdesk-api#readme",
+  "dependencies": {
+    "express": "^4.15.0",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {}
 }
